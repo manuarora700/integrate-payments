@@ -11,7 +11,6 @@ export default async function handler(req, res) {
 
     // Create an order -> generate the OrderID -> Send it to the Front-end
     // Also, check the amount and currency on the backend (Security measure)
-
     const payment_capture = 1;
     const amount = 499;
     const currency = "INR";
@@ -24,7 +23,6 @@ export default async function handler(req, res) {
 
     try {
       const response = await razorpay.orders.create(options);
-
       res.status(200).json({
         id: response.id,
         currency: response.currency,
