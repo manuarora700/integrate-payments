@@ -53,6 +53,6 @@ This template is completely open source and free to use. Use it for client proje
 
 # Support
 
-Your support matters. It pushed me to do more Open Source contributions and give back to the community.
+Your support matters. It pushes me to do more Open Source contributions and give back to the community.
 
 <a href="https://www.buymeacoffee.com/manuarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
